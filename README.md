@@ -37,7 +37,7 @@ to provide a compact and cost-effective automation solution.
 ## Software Tools
 - Arduino IDE
 - Bluetooth Controller Mobile Application
-- Embedded C (Arduino)
+- C (Arduino)
 
 ---
 
@@ -91,11 +91,6 @@ to provide a compact and cost-effective automation solution.
 
 ---
 
-## Project Status
-Completed
-
----
-
 ## Team Members
 - Prem Arun P
 - Dhivakar PCK
@@ -105,6 +100,3 @@ Completed
 
 ---
 
-## References
-1. John-David Warren, Josh Adams, Harald Molle, *Arduino Robotics*
-2. Autodesk Instructables – *The MeArm: A Pocket-Sized Robotic Arm*
